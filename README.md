@@ -1,4 +1,3 @@
-Here is a **clean, professional, easy-to-follow README.md** you can copy-paste directly into your GitHub repository.
 
 ---
 
